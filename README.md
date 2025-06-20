@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi there — you finally found my hideout! 🌸</h2>
 
 ### 👩‍💻 In case you’re curious...
-☕ I write code, drink a lot of <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="Java" />, and occasionally scream at bugs (lovingly).  
+☕ I write code, drink a lot of <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="Java" />, and occasionally scream at bugs (lovingly)  
 📍 Currently based in **Finland**   
 🧠 Training in **C, C++ & Shell** at Hive Helsinki (42 School) 🧪  
 🎯 Focused on backend development using **Spring Boot** and **Java**  
