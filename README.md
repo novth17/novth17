@@ -2,8 +2,9 @@
 
 ### 👩‍💻 In case you’re curious...
 ☕ I write code, drink a lot of <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="Java" />, and occasionally scream at bugs (lovingly).  
+📍 Currently based in **Finland**   
 🧠 Training in **C, C++ & Shell** at Hive Helsinki (42 School) 🧪  
-🎯 Currently focused on backend development using **Spring Boot** and **Java**  
+🎯 Focused on backend development using **Spring Boot** and **Java**  
 🌱 Always learning, always building – and yes, debugging *is* part of the fun (sometimes)
 
 ---
