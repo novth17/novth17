@@ -5,7 +5,7 @@
 📍 Currently based in **Finland**   
 🧠 Training in **C, C++ & Shell** at Hive Helsinki (42 School) 🧪  
 🎯 Focused on backend development using **Spring Boot** and **Java**  
-🥋 When not coding, you might find me in a Taekwondo dojang trying forever to perfect 360° kicks
+🥋 When not coding, you might find me in a Taekwondo dojang
 
 ---
 ### 🛠️ I work with
