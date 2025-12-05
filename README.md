@@ -1,4 +1,11 @@
 <h2 align="center">👋 Hi there — you finally found my hideout! 🌸</h2>
+<p align="center">
+  <a href="https://lily-hien.vercel.app/">
+    <img src="https://img.shields.io/badge/My%20Portfolio 💛-800020?style=for-the-badge"  width="180"/>
+    
+  </a>
+</p>
+
 
 ### 👩‍💻 In case you’re curious...
 ☕ I write code, drink a lot of <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="Java" />, and occasionally scream at bugs (lovingly)  
