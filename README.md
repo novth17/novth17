@@ -41,16 +41,5 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novth17&layout=compact&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=novth17&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=novth17&theme=radical" height="150"/>
-</div>
-
-
----
-
 ![Visitor Badge](https://komarev.com/ghpvc/?username=novth17&style=flat-square)
 
