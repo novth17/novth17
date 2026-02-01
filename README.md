@@ -8,7 +8,7 @@
 
 
 ### 👩‍💻 In case you’re curious...
-📍 Currently based in **Finland**   
+📍 I'm currently based in **Finland**   
 🧠 Training in **C, C++ & Shell** at Hive Helsinki (42 School) 🧪  
 🎯 Focused on backend development using **Go**, **Kotlin**, **Java**, **Spring Boot**  
 🥋 When not coding, you might find me in a Taekwondo dojang
